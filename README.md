@@ -5,6 +5,8 @@ Exercising showing the use of HTML and JavaScript languages. Displays the PacMen
 ## How to Use
 To run, copy the files (index.html, pacmen.js, and the individual .png files located in the Images folder) to your machine. Open the index.html file in your browser and start by clicking the "Add PacMan" button. After adding the PacMan, click on "Start Game" and watch your PacMan move in the browser. You can add multiple PacMen by clicking the "Add PacMan" button. To start over, you will need to refresh your browser window/tab.
 
+DEMO - https://jeffmizner.github.io/PacMen/
+
 ## Future Improvements
 Create reset button to allow the user to start over without refreshing the page
 Add different colored PacMen and add buttons to correlate adding the various individual colors
